@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content Sections 2</title>
+</head>
+<body>
+   <header>
+      <h1>NOTICIAS NACIONALES</h1>
+   </header>
+   <main>
+      <section>
+         <h2>Section como contenedor</h2>
+         <section>
+            <h3>Noticias del Día</h3>
+            <article>
+               <h4>Noticia 1</h4>
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima accusamus iusto iure totam? Minima fugiat itaque laudantium ducimus, architecto iste obcaecati veniam blanditiis molestiae numquam nulla suscipit quidem ea repellendus.</p>
+               <footer>La noticia 1 ocurrió en Madrid</footer>
+            </article>
+            <article>
+               <h4>Noticia 2</h4>
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, iste. Dignissimos quae provident accusamus beatae maiores, minus facere vel ipsum autem quo inventore sint dolores earum accusantium. Dolore, totam consequuntur.</p>
+               <footer>La noticia 2 ocurrió en Salamanca</footer>
+            </article>
+            <article>
+               <h4>Noticia 3</h4>
+               <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero dignissimos sapiente porro tempora consectetur illum exercitationem rem quod distinctio? Perferendis modi aut vitae quis, voluptatum distinctio obcaecati architecto aliquam repellendus.</p>
+               <footer>La noticia 3 ocurrió en A Coruña</footer>
+         </article>
+         </section>
+      </section>
+   </main>
+   <footer>6-10-2025</footer>
+</body>
+</html>
