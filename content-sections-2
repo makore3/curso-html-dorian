@@ -34,6 +34,7 @@
       </section>
       -->
 
+      <!--
       <article>
          <h2>Navegadores más utilizados en 2025</h2>
          <section>
@@ -48,6 +49,12 @@
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias dolorum, vero eius iure id eos libero magnam obcaecati exercitationem ad eum autem dolore asperiores illum necessitatibus tempore quas neque repellendus.</p>
          </section>
       </article>
+      -->
+
+      <header>
+         <h1>Curso de desarrollo web gratuitos</h1>
+      </header>
+      <aside>Visita mi canal de Youtube</aside>
    </main>
    <footer>6-10-2025</footer>
 </body>
